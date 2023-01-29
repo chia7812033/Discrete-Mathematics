@@ -4,7 +4,6 @@ The homework and final project for Discrete Mathematics while i take the course.
 
 hw3: 
            solve RSA encryption and decryption
-
            find nonce in block chain and recover missing value in chain
            
 final project: 
