@@ -9,5 +9,5 @@ hw3:
            
 final project: 
 
-               find maximal clique with BK algorithm (including non-pivot and pivot solution)
-               find chromatic number and color the graph with greedy algorithm
+           find maximal clique with BK algorithm (including non-pivot and pivot solution)
+           find chromatic number and color the graph with greedy algorithm
